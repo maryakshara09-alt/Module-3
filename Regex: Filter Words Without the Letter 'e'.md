@@ -14,7 +14,18 @@ To write a Python program that filters out and returns all elements from a list 
 5. Print the final filtered list.
 
 ## 🧾 Program
-Add code here
+```
+def remove(a):
+   
+    for i in range(len(a)):
+        if i != b:
+            print(a[i],end="")
+b = int(input())
+```
+
 ## Output
+<img width="761" height="230" alt="Screenshot 2026-06-02 133408" src="https://github.com/user-attachments/assets/e362734e-1425-476b-b27b-8b40ded831ef" />
+
 
 ## Result
+The given program is executed and verified successfully
